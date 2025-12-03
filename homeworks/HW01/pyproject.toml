@@ -1,0 +1,8 @@
+[project]
+name = "hw01"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "numpy>=2.3.5",
+]
